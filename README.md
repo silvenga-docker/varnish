@@ -1,2 +1,3 @@
 # varnish
-A Docker container for Varnish under Alpine optimized for Kubernetes.
+
+A simple container for Varnish optimized for Kubernetes.
